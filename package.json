@@ -1,6 +1,6 @@
 {
-  "name": "friends-rolodex",
-  "homepage": "https://jameswhitney.github.io/friends-rolodex",
+  "name": "friends-rolodex-hooks",
+  "homepage": "https://jameswhitney.github.io/friends-rolodex-hooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
