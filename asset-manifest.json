@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/friends-rolodex-hooks/static/css/main.fad43ccf.css",
+    "main.js": "/friends-rolodex-hooks/static/js/main.7e261444.js",
+    "static/js/787.ed58ee07.chunk.js": "/friends-rolodex-hooks/static/js/787.ed58ee07.chunk.js",
+    "index.html": "/friends-rolodex-hooks/index.html",
+    "main.fad43ccf.css.map": "/friends-rolodex-hooks/static/css/main.fad43ccf.css.map",
+    "main.7e261444.js.map": "/friends-rolodex-hooks/static/js/main.7e261444.js.map",
+    "787.ed58ee07.chunk.js.map": "/friends-rolodex-hooks/static/js/787.ed58ee07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad43ccf.css",
+    "static/js/main.7e261444.js"
+  ]
+}
